@@ -8,3 +8,7 @@ https://spring.io/projects/spring-cloud-stream
 ```
 Spring Cloud Stream includes i/p and o/p components for communication. Binder can be based upon kafka or rabbitMQ. Those components are mapped onto the kafka topics
 ```
+
+```
+Using spring cloud stream , we can easily modify the binder via pom.xml
+```
