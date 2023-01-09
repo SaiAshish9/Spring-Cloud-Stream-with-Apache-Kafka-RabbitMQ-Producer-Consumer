@@ -32,3 +32,6 @@ bin/kafka-server-start.sh config/server.properties
 <img width="582" alt="Screenshot 2023-01-10 at 2 12 35 AM" src="https://user-images.githubusercontent.com/43849911/211404200-935b99b1-a77d-4700-8137-0c5c21c0d8a8.png">
 
 <img width="273" alt="Screenshot 2023-01-10 at 2 12 58 AM" src="https://user-images.githubusercontent.com/43849911/211404261-c19565e5-6835-4a0d-9fa7-014242b79875.png">
+
+<img width="723" alt="Screenshot 2023-01-10 at 2 15 35 AM" src="https://user-images.githubusercontent.com/43849911/211404758-96bec3b8-86b7-4db0-baec-4515f5558389.png">
+
