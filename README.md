@@ -12,3 +12,5 @@ Spring Cloud Stream includes i/p and o/p components for communication. Binder ca
 ```
 Using spring cloud stream , we can easily modify the binder via pom.xml
 ```
+
+<img width="1749" alt="Screenshot 2023-01-10 at 2 09 19 AM" src="https://user-images.githubusercontent.com/43849911/211403935-a3f88592-e70f-45d8-a8c2-297aef9996ce.png">
