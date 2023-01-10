@@ -56,3 +56,9 @@ The following plugins have been enabled:
 
 started 3 plugins.
 ```
+
+<img width="1742" alt="Screenshot 2023-01-11 at 1 17 10 AM" src="https://user-images.githubusercontent.com/43849911/211648094-33b49509-222f-4140-9966-a2c00057ce03.png">
+
+
+
+
