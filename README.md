@@ -35,3 +35,24 @@ bin/kafka-server-start.sh config/server.properties
 
 <img width="723" alt="Screenshot 2023-01-10 at 2 15 35 AM" src="https://user-images.githubusercontent.com/43849911/211404758-96bec3b8-86b7-4db0-baec-4515f5558389.png">
 
+```
+brew install erlang
+sbin/rabbitmq-server
+```
+
+```
+./rabbitmq-plugins enable rabbitmq_management
+Enabling plugins on node rabbit@MBP-C02F5ASXMD6M:
+rabbitmq_management
+The following plugins have been configured:
+  rabbitmq_management
+  rabbitmq_management_agent
+  rabbitmq_web_dispatch
+Applying plugin configuration to rabbit@MBP-C02F5ASXMD6M...
+The following plugins have been enabled:
+  rabbitmq_management
+  rabbitmq_management_agent
+  rabbitmq_web_dispatch
+
+started 3 plugins.
+```
