@@ -16,8 +16,10 @@ Using spring cloud stream , we can easily modify the binder via pom.xml
 <img width="1749" alt="Screenshot 2023-01-10 at 2 09 19 AM" src="https://user-images.githubusercontent.com/43849911/211403935-a3f88592-e70f-45d8-a8c2-297aef9996ce.png">
 
 ```
+# Start the ZooKeeper service
 bin/zookeeper-server-start.sh config/zookeeper.properties
 
+# Start the Broker service
 bin/kafka-server-start.sh config/server.properties
 ```
 
